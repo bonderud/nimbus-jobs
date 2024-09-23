@@ -12,3 +12,6 @@ Thumbs.db
 # Ignore log files and temporary files
 *.log
 *.tmp
+
+# Ignore ChromeDriver
+chromedriver*
